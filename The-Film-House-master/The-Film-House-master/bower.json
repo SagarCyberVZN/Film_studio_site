@@ -1,0 +1,15 @@
+{
+  "name": "wp-starter",
+  "dependencies": {
+    "jquery": "2"
+  },
+  "devDependencies": {
+    "modernizr": "~2.6.2",
+    "spinjs": "~1.3.2",
+    "echojs": "~1.4.0",
+    "fitvids": "~1.0.3",
+    "jquery-hammerjs": "*",
+    "flexslider": "*",
+    "jquery-form": "~3.46.0"
+  }
+}
